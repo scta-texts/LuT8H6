@@ -49,16 +49,16 @@
     </front>
     <body>
       <div xml:id="LuT8H6-d1e55X">
-        <div>
-          <head>Caput 1</head>
+        <div xml:id="LuT8H6-d1e55X-Dd1e102">
+          <head xml:id="LuT8H6-d1e55X-Hd1e104">Caput 1</head>
         </div>
-        <div>
-          <head>Caput 2</head>
+        <div xml:id="LuT8H6-d1e55X-Dd1e108">
+          <head xml:id="LuT8H6-d1e55X-Hd1e110">Caput 2</head>
         </div>
-        <div>
-          <head>Caput 3</head>
-          <p>
-            Secundo quando <name ref="#Augustine">Augustinus</name> dicit quod dilectio est Deus, non intelligatur cum 
+        <div xml:id="LuT8H6-d1e55X-Dd1e114">
+          <head xml:id="LuT8H6-d1e55X-Hd1e116">Caput 3</head>
+          <p xml:id="LuT8H6-d1e55X-d1e119">
+            Secundo quando <name xml:id="LuT8H6-d1e55X-Nd1e121" ref="#Augustine">Augustinus</name> dicit quod dilectio est Deus, non intelligatur cum 
             praecisione seu exclusive id est quasi dilectio sit tantum 
             Deus. 
             Sed concedendo quod dilectio sit Deus. 
@@ -67,17 +67,17 @@
             Sicut <mentioned>Christus est fides, justitia, gratia nostra et sanctificatio nostra</mentioned>. 
             Et videtur 
             <cit>
-              <ref target="http://scta.info/resource/pll1d17c1-d1e3480" synch="39-51">
-                <name ref="#Lombard">Magister</name> non penitus absurdissime loqui
+              <ref xml:id="LuT8H6-d1e55X-Rd1e129" target="http://scta.info/resource/pll1d17c1-d1e3480" synch="39-51">
+                <name xml:id="LuT8H6-d1e55X-Nd1e131" ref="#Lombard">Magister</name> non penitus absurdissime loqui
               </ref>
             </cit>:
             in eo quod habitum dicit esse Spiritum Sanctum. 
-            Quia commentum illud de habitibus opinionem habet ex verbis <name ref="#Aristotle">Aristotelis</name> rancidi philosophi. 
+            Quia commentum illud de habitibus opinionem habet ex verbis <name xml:id="LuT8H6-d1e55X-Nd1e136" ref="#Aristotle">Aristotelis</name> rancidi philosophi. 
             Alias bene possit dici, 
             quod spiritus sanctus est charitas concurrens seipso cum voluntate ad productionem actus amandi, 
             nisi sit forte 
             <cit>
-              <ref target="http://scta.info/resource/kdhaWs-d1e65-d1e135" synch="38-51">
+              <ref xml:id="LuT8H6-d1e55X-Rd1e141" target="http://scta.info/resource/kdhaWs-d1e65-d1e135" synch="38-51">
                 determinatio ecclesiae in oppositum
               </ref>
             </cit>.
